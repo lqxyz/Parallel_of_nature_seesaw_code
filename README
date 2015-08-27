@@ -1,0 +1,11 @@
+The program is a MonteCarlo Simulation program to calculate the lead time of polar seesaw. 
+
+The program is adapted from a MATLAB version, and downloaded from nature.com.
+
+Notice: Some programs are downloaded from network, such as fitting.f90 and interp_linear.f90, and modified by Qun Liu. Thanks for the authors of the open source programs.
+
+Usage:
+1. make
+2. nohup make run &> MC_result &
+
+The results will be writen to the file t_MC.dat and t_MCc.dat for warm and cool event.
