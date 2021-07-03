@@ -17,4 +17,4 @@ $ nohup make run &> MC_result &
 The results will be writen to `t_MC.dat` and `t_MCc.dat` for warm and cool events, respectively.
 
 ### Reference:
-* WAIS Divide Project Members. Precise interpolar phasing of abrupt climate change during the last ice age. *Nature* 520, 661–665 (2015). DOI:[10.1038/nature14401](https://doi.org/10.1038/nature14401).
+* WAIS Divide Project Members. Precise interpolar phasing of abrupt climate change during the last ice age. *Nature* 520, 661–665 (2015). DOI: [10.1038/nature14401](https://doi.org/10.1038/nature14401).
