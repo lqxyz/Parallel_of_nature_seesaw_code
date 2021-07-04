@@ -4,7 +4,11 @@
 
 <p align="center">
     <img src="./figs/warm_stack.jpeg" width="300">
-    <img src="./figs/cool_stack.jpeg" style="300">
+    <img src="./figs/cool_stack.jpeg" width="300">
+</p>
+
+<p align="center">
+ <img src="./figs/FourHist.jpeg" width="600"/>
 </p>
 
 ### Introduction
