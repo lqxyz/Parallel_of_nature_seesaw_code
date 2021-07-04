@@ -2,14 +2,10 @@
  <img src="./figs/MC_time_comparison.jpeg" width="600"/>
 </p>
 
-<div class="row">
-  <div class="column">
-    <img src="./figs/warm_stack.jpeg" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="./figs/cool_stack.jpeg" style="width:50%">
-  </div>
-</div>
+<p align="center">
+    <img src="./figs/warm_stack.jpeg" width="300">
+    <img src="./figs/cool_stack.jpeg" style="300">
+</p>
 
 ### Introduction
 The program is a Monte Carlo simulation to calculate the interhemispheric phasing of the bipolar seesaw. Rewritten from a MATLAB version, downloaded from https://doi.org/10.1038/nature14401.
