@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <img src="./figs/warm_stack.jpeg" width="300">
-    <img src="./figs/cool_stack.jpeg" width="300">
+    <img src="./figs/warm_stack.jpeg" width="350"/>
+    <img src="./figs/cool_stack.jpeg" width="350"/>
 </p>
 
 <p align="center">
